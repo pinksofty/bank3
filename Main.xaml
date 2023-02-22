@@ -55,6 +55,6 @@
     </sap:WorkflowViewStateService.ViewState>
     <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:01" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="358,86.66666666666667" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;jj&quot;]" />
     <Delay Duration="00:00:02" sap:VirtualizedContainerService.HintSize="358,92" sap2010:WorkflowViewState.IdRef="Delay_1" />
-    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="dev1" sap:VirtualizedContainerService.HintSize="358,86.66666666666667" sap2010:WorkflowViewState.IdRef="MessageBox_2" Text="[&quot;c m by dev1&quot;]" />
+    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="dev1" sap:VirtualizedContainerService.HintSize="358,86.66666666666667" sap2010:WorkflowViewState.IdRef="MessageBox_2" Text="[&quot;c m by deev1&quot;]" />
   </Sequence>
 </Activity>
